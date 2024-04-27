@@ -13,7 +13,7 @@
 )](https://www.twitch.tv/o_croco)
 
 </center>
-<center>
+
 
 ## <center>Technologies skills:
 <p align="center">
@@ -29,7 +29,6 @@
 
 <center>
   
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoys&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
 <br>
 ![Anurag's GitHub stats](https://streak-stats.demolab.com/?user=italoys&count_private=true&theme=react&border_radius=10)
