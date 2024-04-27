@@ -31,15 +31,16 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=italoys&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
+<br>
 ![Anurag's GitHub stats](https://streak-stats.demolab.com/?user=italoys&count_private=true&theme=react&border_radius=10)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=italoys&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
 
 <center>
-
 #### About me
 
 
 Developer who loves technology, games, films and TRPG.
-
+</center>
 
 
