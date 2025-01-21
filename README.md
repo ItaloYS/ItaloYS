@@ -9,7 +9,7 @@
 
 #### About me
 
-Developer who loves technology, games, films and TRPG.
+Developer who loves technology, games, movies and TRPG.
 <br>
 <br>
 <p align="center">
